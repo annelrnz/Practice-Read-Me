@@ -5,12 +5,7 @@
 </div>
 
 # ${\color{#000080}\text{OOP Principles}}$
-🚀
-✅✅✅
-
-> ${\color{#000080}\text{[EMI]}}$
-> This highlights information users should take into account, even when skimming.
-
-> [!WARNING]
-> This indicates potential risks or critical information.
+*Encapsulation
+*Abstraction
+*Inheritance
 
