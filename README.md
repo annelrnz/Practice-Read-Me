@@ -18,3 +18,15 @@
 
 # ${\color{#000080}\text{How To Run The Program}}$
 * **Explain** 
+
+# ${\color{#000080}\text{Sample Output}}$
+* **Insert block of code or screenshot**
+
+# ${\color{#000080}\text{Author and Acknowledgement}}$
+* **Insert something here**
+
+# ${\color{#000080}\text{Future Enhancement}}$
+* **Suggestions**
+
+# ${\color{#000080}\text{References}}$
+* **Insert Something Here**
