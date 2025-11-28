@@ -6,7 +6,7 @@
 🚀
 ✅✅✅
 
-> [!EMI]
+> [EMI]
 > This highlights information users should take into account, even when skimming.
 
 > [!WARNING]
