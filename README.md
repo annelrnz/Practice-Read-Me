@@ -9,7 +9,7 @@
 # This text appears in gray.
 ```
 
-${\color{blue}\text{This text is blue!}}$
+${\color{pink}\text{A program tha}}$
 
 
 # OOP Principles
