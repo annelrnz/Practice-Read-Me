@@ -13,8 +13,7 @@
   Enter explanation
 
 # ${\color{#000080}\text{Project Structure}}$
-* **CODE STRUCTURE**  
-  Insert info
+* **Insert info**  
 
 # ${\color{#000080}\text{How To Run The Program}}$
 * **Explain** 
