@@ -6,7 +6,7 @@
 🚀
 ✅✅✅
 
-> [EMI]
+> [EMI] ${\color{#000080}\text{[EMI]}}$
 > This highlights information users should take into account, even when skimming.
 
 > [!WARNING]
