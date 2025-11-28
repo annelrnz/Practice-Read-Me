@@ -6,4 +6,9 @@
 🚀
 ✅✅✅
 
- [!NOTE]
+> [!NOTE]
+> This highlights information users should take into account, even when skimming.
+
+> [!WARNING]
+> This indicates potential risks or critical information.
+
