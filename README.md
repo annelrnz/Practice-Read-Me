@@ -9,5 +9,7 @@
 # This text appears in gray.
 ```
 
+${\color{blue}\text{This text is blue!}}$
+
 
 # OOP Principles
