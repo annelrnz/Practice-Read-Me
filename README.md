@@ -5,10 +5,10 @@
 </div>
 
 # ${\color{#000080}\text{OOP Principles}}$
-* **Encapsulation**
+* **Encapsulation**  
   Enter explanation
-* **Abstraction**
+* **Abstraction**  
   Enter explanation
-* **Inheritance**
+* **Inheritance**  
   Enter explanation
 
