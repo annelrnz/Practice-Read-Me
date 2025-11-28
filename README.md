@@ -5,7 +5,10 @@
 </div>
 
 # ${\color{#000080}\text{OOP Principles}}$
-* Encapsulation
-* Abstraction
-* Inheritance
+* **Encapsulation**
+  Enter explanation
+* **Abstraction**
+  Enter explanation
+* **Inheritance**
+  Enter explanation
 
