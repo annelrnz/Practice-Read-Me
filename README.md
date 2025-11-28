@@ -13,7 +13,7 @@
   Enter explanation
 
 # ${\color{#000080}\text{Project Structure}}$
-CODE STRUCTURE  
+* **CODE STRUCTURE**  
   Insert info
 
 
