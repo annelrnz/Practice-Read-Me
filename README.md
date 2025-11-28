@@ -7,6 +7,7 @@
 - This text appears in red (useful for "Error" or "Removed" messages).
 ! This text appears in orange (useful for "Warning" messages).
 # This text appears in gray.
+```
 
 
 # OOP Principles
